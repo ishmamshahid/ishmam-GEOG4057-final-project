@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, May 8, 2025 3:08:05 AM</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "D:\LSU\Sp_2025\GEOG4057\ishmam-GEOG4057-final-project\project-2\project-2-map\project-2-map.atbx\Script.tool\tool.script.execute.py", line 3, in &lt;module&gt;
+﻿ModuleNotFoundError: No module named 'ee'
+</msg><msg code="0" type="0">Failed script Script_2...</msg><msg code="-2147467259" type="100">Failed to execute (Script).</msg><msg code="0" type="3">Failed at Thursday, May 8, 2025 3:08:05 AM (Elapsed Time: 0.04 seconds)</msg></messages>
